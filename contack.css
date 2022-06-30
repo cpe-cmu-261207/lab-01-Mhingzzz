@@ -1,0 +1,29 @@
+* {
+    text-decoration-style: none;
+    padding: 0;
+    margin: 0;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Trispace', sans-serif;
+    font-size: 16px;
+
+}
+
+body {
+    background-color: #354259;
+}
+
+.container {
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 1rem;
+}
+
+.container .info {
+
+    margin-top: 40px;
+    display: flex;
+}
+
+.doc {
+    margin-left: 40px;
+}
